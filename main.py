@@ -2,7 +2,7 @@
 import csv
 import re
 # Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings
 
 
 def print_hi():
